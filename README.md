@@ -1,1 +1,1 @@
-Hosted link - https://ketandogra.github.io/Tailwind-landing-page/
+Hosted link -- https://ketandogra.github.io/Tailwind-landing-page/
